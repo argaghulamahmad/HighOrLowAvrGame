@@ -1,5 +1,5 @@
 # HighOrLowAvrGame
-HighOrLowGame is avr based game. This game ask user to determine, is current number is high or low compare with last number.
+HighOrLowGame is avr based game. This game ask user to determine current number is high or low compare with last number.
 
 Created by Kelompok C-10 POK 2016:
 - Arga Ghulam Ahmad - 1606821601
